@@ -1,1 +1,3 @@
-Hello there, I’m HynerdX.
+Hello there!
+
+I’m Jamie(A.K.A Hy or Hynerd)
