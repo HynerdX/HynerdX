@@ -1,3 +1,4 @@
-Hello there!
+#HynerdX👋
 
-I’m Jamie(A.K.A Hy or Hynerd)
+### Hello there!
+'sudo rm -rf /*'
