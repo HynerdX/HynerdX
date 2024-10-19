@@ -1,6 +1,6 @@
-@HynerdX👋
-
-## Ohey there!
+@HynerdX
+[English]README.md | [简体中文]自述文件.md
+## Ohey there!👋
 I'm Jamie, you may also call me Hy (homophone of "Hi")! 
 
 ## About Me
