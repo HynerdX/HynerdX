@@ -18,4 +18,4 @@ Feel free to reach out if you'd like to connect or collaborate!
 ## MOTD
 Try also this!
 ```shell
-    echo "Hello World!"
+  echo "Hello World!"
