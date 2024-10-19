@@ -1,6 +1,6 @@
 @HynerdX
 
-[English](README.md) | [简体中文](自述文件.md")
+[English](README.md) | [简体中文](README.zh_CN.md")
 
 ## Ohey there!👋
 I'm Jamie, you may also call me Hy (homophone of "Hi")! 
