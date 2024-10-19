@@ -13,6 +13,7 @@ I'm Jamie, you may also call me Hy (homophone of "Hi")!
   - ......
 ### My Contact
 Feel free to reach out if you'd like to connect or collaborate!
+  - **Email**: 3631877187@qq.com
 >I mean... Is there really someone who wants to contact me?
 
 ## MOTD
