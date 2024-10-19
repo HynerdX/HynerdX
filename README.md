@@ -19,6 +19,6 @@ Feel free to reach out if you'd like to connect or collaborate!
 >I mean... Is there really someone who wants to contact me?
 
 ## MOTD
-Try also this!
+Try also
 ```shell
   echo "Hello World!"
