@@ -11,7 +11,7 @@ I'm Jamie, you may also call me Hy (homophone of "Hi")!
   - **B**eing a bit of a nerd, I love diving into tech manuals XD 😉
   - **C**urious of the internet, always seeking to learn something new~ 🌐
   - **D**etermined to conquer bugs! 🐛
-  - **E**ww...  not a fan of poorly formatted code or bad coffee( ☕️
+  - **E**ww... not a fan of poorly formatted code or bad coffee( ☕️
   - ......
 ### My Contact
 Feel free to message if you'd like to connect or collaborate!
@@ -21,4 +21,4 @@ Feel free to message if you'd like to connect or collaborate!
 ## MOTD
 Try also
 ```shell
-  echo "Hello World!"
+echo "Hello World!"
