@@ -4,7 +4,8 @@
 
 ## Ohey there!👋
 I'm Hynerd, a will powered and RNG carried developer. I'm experienced in frontened technologies and currently learning Java!
-
+## Working Environment
+**Nothing** impressive. XIAOMI MIX 4, iPad mini 5, a Windows Laptop with RTX3060 and a NUC8i5BEH running on Windows with Arch WSL.
 ## About Me
 ### Just About Me...
   - **A**lways pestering veteran dev, namely, DAGE -_- ☝️🤓
@@ -21,4 +22,7 @@ Feel free to reach out... lol
 ## MOTD
 Try also
 ```shell
-echo "Hello World!"
+neofetch
+neofetch
+neofetch
+...
